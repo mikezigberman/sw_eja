@@ -103,6 +103,39 @@ The main functions of the "Bank Application" project include:
 9. Handling errors and exceptions:
    - Provides error and exception handling to prevent crashes and ensure application stability.
    - Sends appropriate error messages to users and provides information for diagnosing and fixing problems.
+  
+## Brief description of the main project files
+1. AppConfig.java:
+2. MailConfig.java:
+3. AdvisorController.java:
+4. AccountController.java:
+5. AppController.java:
+6. AuthController.java:
+7. IndexController.java:
+8. RegisterController.java:
+9. TransactController.java:
+10. GenAccountNumber.java:
+11. HTML.java:
+12. Token.java:
+13. AppInterceptor.java:
+14. MailMessenger.java:
+15. Account.java:
+16. Payment.java:
+17. PaymentHistory.java:
+18. Transact.java:
+19. TransactionHistory.java:
+20. User.java:
+21. AccountRepository.java:
+22. PaymentHistoryRepository.java:
+23. PaymentRepository.java:
+24. TransactHistoryRepository.java:
+25. TransactRepository.java:
+26. UserRepository.java:
+27. RestAuthApiController.java:
+28. RestTransactApiController.java:
+29. DemoBankApplication.java:
+30. application.properties
+31. pom.xml
 
 ## Working with the database
 The Bank Application project uses a database to store and manage data related to users, transactions, and other entities. The project uses MySQL as its database management system (DBMS).
